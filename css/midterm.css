@@ -1,0 +1,22 @@
+body {
+  margin-left: 28px;
+  margin-right: 100px;
+  font-family:sans-serif;
+  text-align: justify;
+}
+
+
+a:link {  color: #ooc; background: transparent;}
+a:visited { color: #609; background: transparent;}
+a:active{ color:#coo; background:transparent;}
+a:hover{ background: #ffa}
+
+h1, h2, h3, h4, h5, h6 {text-align: left; }
+h1, h2, h3 { color:#005a9c }
+h1 { font: 170%; font-weight:bold; font-family:sans-serif;}
+h2 { font: 140%; font-family:sans-serif;}
+h3 { font: 120%; font-family:sans-serif;}
+
+.heading {
+  color:#225500
+}
